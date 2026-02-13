@@ -22,5 +22,7 @@ Clinic Management System is a JSP/Servlet-based web application designed to mana
 <img width="343" height="417" alt="image" src="https://github.com/user-attachments/assets/33df06d6-ad82-4b9f-9819-6b9140402218" />
 <img width="603" height="362" alt="image" src="https://github.com/user-attachments/assets/1a872ccd-03c4-47eb-b829-c520ae65e41d" />
 <img width="377" height="581" alt="image" src="https://github.com/user-attachments/assets/6caac0e9-5fce-4054-8fee-efc2cbfaa89f" />
+<img width="1064" height="190" alt="image" src="https://github.com/user-attachments/assets/25ca8c82-f3ce-483c-85cd-74bc110e584b" />
+
 
 
